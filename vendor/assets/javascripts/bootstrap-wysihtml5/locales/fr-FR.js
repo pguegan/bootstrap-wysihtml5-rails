@@ -30,6 +30,11 @@
               insert: "Insérer une image",
               cancel: "Annuler"
         },
+        video: {
+              insert: "Insérer une vidéo YouTube",
+              cancel: "Annuler",
+              invalid: "Lien invalide"
+        },
         html: {
             edit: "Editer en HTML"
         },
